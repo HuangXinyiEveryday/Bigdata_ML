@@ -20,5 +20,13 @@
 
 这个系统因为其创新性，拥有了近2000亿条飞行数据，而这些数据也可以像谷歌一样用来预测和评估疾病的流行
 
-参考  Bajardi P, Poletto C, Ramasco J J, et al. Human mobility networks, travel restrictions, and the global spread of 2009 H1N1 pandemic.\[J\]. Plos One, 2011, 6\(1\):e16591.
+拓展应用：宾馆预订、二手车购买等等，只要是产品差异不大且存在大幅度价格差和大量可运用的数据，就可以应用这项技术
+
+* #### _**人们关于如何使用数据的理念推动了大数据的发展**_
+
+参考资料  Bajardi P, Poletto C, Ramasco J J, et al. Human mobility networks, travel restrictions, and the global spread of 2009 H1N1 pandemic.\[J\]. Plos One, 2011, 6\(1\):e16591.
+
+---
+
+
 
